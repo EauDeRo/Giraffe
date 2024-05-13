@@ -1,4 +1,4 @@
-#Este programa funciona si se encuentra en la carpeta C:\Users\Rocío\Desktop\PYTHON\curso
+#Este programa funciona si se encuentra en la carpeta C:\Users\Rocío\Desktop\PYTHON\ROG\curso
 #Crea un fichero en C:\Users\Rocío\Desktop\PYTHON\ROG
 txt_hi =open("ROG/hi.txt","w")
 txt_hi.write("¡Hola!etoy borrando y escribiendo en un fichero txt")
