@@ -18,6 +18,4 @@ txt_hi_read.close()
 txt_hi_read2 = open("ficheros/hi.txt","r")
 for line in txt_hi_read2.readlines():
     print("\n leyendo for   " + line)
-
-print(txt_hi_read2.read())
-txt_hi_read.close()
+txt_hi_read2.close()
