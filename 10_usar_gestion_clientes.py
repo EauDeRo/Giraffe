@@ -1,3 +1,6 @@
+#la carpeta main es C:\Users\rocio.guichoux\Desktop\curso python\curso freecodecamp\Giraffe
+# el .py en la carpeta C:\Users\rocio.guichoux\Desktop\curso python\curso freecodecamp\Giraffe\
+#el fichero lista_de_clientes.txt se encuentra en C:\Users\rocio.guichoux\Desktop\curso python\curso freecodecamp\Giraffe\ficheros
 from gestion_clientes import *
 
 lista_clientes=[]
