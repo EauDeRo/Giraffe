@@ -1,0 +1,4 @@
+name;ftp;user;pasword
+cocacola;ftp.patata.com;cocacola_es;123456
+pepsi;ftp.frita.com;pepsi_es;abcdef
+hacendado;ftp.ketchup.com;hacendado_es;a1b2c3
